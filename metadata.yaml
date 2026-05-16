@@ -3,7 +3,7 @@ display_name: VTube Studio Live2D 控制
 desc: vtube_studio连接支持
 author: EterUltimate
 repo: https://github.com/EterUltimate/astrbot_plugin_vtube_studio
-version: 1.2.1
+version: 1.4.2
 support_platforms:
   - aiocqhttp
   - qq_official
