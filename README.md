@@ -1,7 +1,5 @@
 # AstrBot VTube Studio Live2D 控制插件
 
-> **群聊通知（2026-10-11）：** 原群聊被停用一周，期间可先加入 bot 群：**145326153**。
-
 当前版本：`1.4.0`
 
 让 AstrBot 的 LLM 能够实时控制 VTube Studio 中的 Live2D 模型，包括触发动作热键、切换表情、注入参数等。
